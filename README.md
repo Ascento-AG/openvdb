@@ -10,4 +10,8 @@ The header files have been copied over together with the corresponding shared li
 all dependencies must be met. 
 
 See the first row (OpenVDB Core) in the [dependencies table](https://www.openvdb.org/documentation/doxygen/dependencies.html) to check all requirements.
-  
+
+🚨 **Important Notice**
+
+This repository is not actively maintained and is intended for internal use only. While it wraps functionality from a third-party library licensed under the Apache License 2.0, it was not designed or developed with the intention of being a public open-source project.
+We appreciate your interest, but please be aware that we do not currently plan to support external contributions or ongoing community maintenance.
